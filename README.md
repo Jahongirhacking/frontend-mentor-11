@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+[Live](https://frontend-mentor-12.netlify.app/)
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
